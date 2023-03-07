@@ -1,0 +1,17 @@
+E:\Git_1302213092\Modul3_1302213092\bin\Debug\net6.0-windows\Modul3_1302213092.exe
+E:\Git_1302213092\Modul3_1302213092\bin\Debug\net6.0-windows\Modul3_1302213092.deps.json
+E:\Git_1302213092\Modul3_1302213092\bin\Debug\net6.0-windows\Modul3_1302213092.runtimeconfig.json
+E:\Git_1302213092\Modul3_1302213092\bin\Debug\net6.0-windows\Modul3_1302213092.dll
+E:\Git_1302213092\Modul3_1302213092\bin\Debug\net6.0-windows\Modul3_1302213092.pdb
+E:\Git_1302213092\Modul3_1302213092\obj\Debug\net6.0-windows\Modul3_1302213092.csproj.AssemblyReference.cache
+E:\Git_1302213092\Modul3_1302213092\obj\Debug\net6.0-windows\Modul3_1302213092.Form1.resources
+E:\Git_1302213092\Modul3_1302213092\obj\Debug\net6.0-windows\Modul3_1302213092.csproj.GenerateResource.cache
+E:\Git_1302213092\Modul3_1302213092\obj\Debug\net6.0-windows\Modul3_1302213092.GeneratedMSBuildEditorConfig.editorconfig
+E:\Git_1302213092\Modul3_1302213092\obj\Debug\net6.0-windows\Modul3_1302213092.AssemblyInfoInputs.cache
+E:\Git_1302213092\Modul3_1302213092\obj\Debug\net6.0-windows\Modul3_1302213092.AssemblyInfo.cs
+E:\Git_1302213092\Modul3_1302213092\obj\Debug\net6.0-windows\Modul3_1302213092.csproj.CoreCompileInputs.cache
+E:\Git_1302213092\Modul3_1302213092\obj\Debug\net6.0-windows\Modul3_1302213092.dll
+E:\Git_1302213092\Modul3_1302213092\obj\Debug\net6.0-windows\refint\Modul3_1302213092.dll
+E:\Git_1302213092\Modul3_1302213092\obj\Debug\net6.0-windows\Modul3_1302213092.pdb
+E:\Git_1302213092\Modul3_1302213092\obj\Debug\net6.0-windows\Modul3_1302213092.genruntimeconfig.cache
+E:\Git_1302213092\Modul3_1302213092\obj\Debug\net6.0-windows\ref\Modul3_1302213092.dll
